@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 4X4 Size -->
+
+  <CustomWorkRefuel.label>为生物反应堆补充燃料</CustomWorkRefuel.label>
+  <CustomWorkRefuel.verb>补充燃料</CustomWorkRefuel.verb>
+  <CustomWorkRefuel.gerund>补充燃料</CustomWorkRefuel.gerund>
+
+
+</LanguageData>

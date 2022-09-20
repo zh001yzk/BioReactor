@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EnterBioReactor>进入生物反应堆</EnterBioReactor>
+  <Histolysis>溶解</Histolysis>
+  <HistolysisDesc>溶化反应堆里的活物，将其分解为化合燃料。</HistolysisDesc>
+  <CarryToBioReactor>将{1_label}装入生物反应堆</CarryToBioReactor>
+  <CannotCarryToBioReactor>无法装入生物反应堆</CannotCarryToBioReactor>
+  <RefuelTitle>Refuel Filter</RefuelTitle>
+  <RefuelTab>Filter Tab</RefuelTab>
+
+  <CommandCopyBioReactorSettingsLabel>复制设定</CommandCopyBioReactorSettingsLabel>
+  <CommandCopyBioReactorSettingsDesc>复制该生物反应堆的设定至剪贴板，以便粘贴至其他生物反应堆。</CommandCopyBioReactorSettingsDesc>
+
+  <CommandPasteBioReactorSettingsLabel>粘贴设定</CommandPasteBioReactorSettingsLabel>
+  <CommandPasteBioReactorSettingsDesc>用剪贴板中保存的设定覆盖该生物反应堆的设定。</CommandPasteBioReactorSettingsDesc>
+
+</LanguageData>

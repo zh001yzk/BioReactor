@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 4X4 Size -->
+
+  <KnowHistolysisHumanlike.stages.0.label>溶解了活人</KnowHistolysisHumanlike.stages.0.label>
+  <KnowHistolysisHumanlike.stages.0.description>一个活生生的人,就这样被溶解...（呕）...</KnowHistolysisHumanlike.stages.0.description>
+
+  <KnowHistolysisHumanlikeCannibal.stages.0.label>恶心</KnowHistolysisHumanlikeCannibal.stages.0.label>
+  <KnowHistolysisHumanlikeCannibal.stages.0.description>老实说，这真让人倒胃口。</KnowHistolysisHumanlikeCannibal.stages.0.description>
+
+  <KnowHistolysisHumanlikePsychopath.stages.0.label>看见活人溶解</KnowHistolysisHumanlikePsychopath.stages.0.label>
+  <KnowHistolysisHumanlikePsychopath.stages.0.description>我看见一个人回归了尘土，太美了。</KnowHistolysisHumanlikePsychopath.stages.0.description>
+
+  <LivingBattery.stages.0.label>被当成活体电池</LivingBattery.stages.0.label>
+  <LivingBattery.stages.0.description>我被当成了活体电池。我可不想再回去。</LivingBattery.stages.0.description>
+
+
+</LanguageData>

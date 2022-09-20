@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 4X4 Size -->
+
+  <CarryToBioReactor.reportString>将TargetA装进生物反应堆.</CarryToBioReactor.reportString>
+  <EnterBioReactor.reportString>进入生物反应堆.</EnterBioReactor.reportString>
+
+
+</LanguageData>

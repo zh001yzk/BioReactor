@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BioReactorBase.label>生物反应堆</BioReactorBase.label>
+  <BioReactorBase.description>汲取活物能量以发电的生物反应堆。电力输出取决于其内容生物的体型。需要给其中的活体提供营养。</BioReactorBase.description>
+
+
+  <!-- 2X2 Size -->
+
+  <BioReactor.label>试验型生物反应堆(2X2)</BioReactor.label>
+  <BioReactor.description>汲取活物能量以发电的生物反应堆。电力输出取决于其内容生物的体型。需要给其中的活体提供营养。（最大体型1.3）</BioReactor.description>
+
+
+  <!-- 3X3 Size -->
+
+  <BioReactorCircleLarge.label>试验型生物反应堆(3X3)</BioReactorCircleLarge.label>
+  <BioReactorCircleLarge.description>汲取活物能量以发电的生物反应堆。电力输出取决于其内容生物的体型。需要给其中的活体提供营养。（最大体型25）</BioReactorCircleLarge.description>
+
+
+  <!-- 4X4 Size -->
+
+  <BioReactorCircleEX.label>试验型生物反应堆(4X4)</BioReactorCircleEX.label>
+  <BioReactorCircleEX.description>汲取活物能量以发电的生物反应堆。电力输出取决于其内容生物的体型。需要给其中的活体提供营养。（最大体型50）</BioReactorCircleEX.description>
+
+
+  <!-- 3X3 Size -->
+
+  <BioReactorBig.label>生物反应堆(3X3)</BioReactorBig.label>
+  <BioReactorBig.description>汲取活物能量以发电的生物反应堆。电力输出取决于其内容生物的体型。需要给其中的活体提供营养。（最大体型25）</BioReactorBig.description>
+
+
+  <!-- 4X4 Size -->
+
+  <BioReactorEx.label>生物反应堆(4X4)</BioReactorEx.label>
+  <BioReactorEx.description>汲取活物能量以发电的生物反应堆。电力输出取决于其内容生物的体型。需要给其中的活体提供营养。（最大体型50）</BioReactorEx.description>
+
+
+</LanguageData>
